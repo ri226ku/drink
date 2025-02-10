@@ -17,5 +17,4 @@ if($buy >= 3){
   }
 }
 echo $buy + $present.PHP_EOL;
-
 ?>
